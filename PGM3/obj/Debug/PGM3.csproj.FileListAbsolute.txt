@@ -1,0 +1,7 @@
+C:\Users\etern\source\repos\PGM3\PGM3\bin\Debug\PGM3.exe.config
+C:\Users\etern\source\repos\PGM3\PGM3\bin\Debug\PGM3.exe
+C:\Users\etern\source\repos\PGM3\PGM3\bin\Debug\PGM3.pdb
+C:\Users\etern\source\repos\PGM3\PGM3\obj\Debug\PGM3.csprojAssemblyReference.cache
+C:\Users\etern\source\repos\PGM3\PGM3\obj\Debug\PGM3.csproj.CoreCompileInputs.cache
+C:\Users\etern\source\repos\PGM3\PGM3\obj\Debug\PGM3.exe
+C:\Users\etern\source\repos\PGM3\PGM3\obj\Debug\PGM3.pdb
